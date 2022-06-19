@@ -1,0 +1,77 @@
+
+@{
+    Layout = null;
+
+}
+@model HomePageViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KALYAN MATKA | MATKA RESULT | KALYAN MATKA TIPS | SATTA MATKA | MATKA.COM | MATKA PANA JODI TODAY | BATTA SATKA | MATKA PATTI JODI NUMBER | MATKA RESULTS | MATKA CHART | MATKA JODI | SATTA COM | FULL RATE GAME | MATKA GAME | MATKA WAPKA | ALL MATKA RESULT LIVE ONLINE | MATKA RESULT | KALYAN MATKA RESULT | DPBOSS MATKA 143 | MAIN MATKA</title>
+    <meta charset="utf-8" />
+    <!--Css files-->
+    <link href="~/css/dpboss.css" rel="stylesheet" />
+    <!--Bootstrap Css -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <!--Meta Tags-->
+    <meta name="copyright" content="Copyright © 2021 rkbiggboss.net All Rights Reserved." />
+    <meta name="revisit-after" content="2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+</head>
+<body>
+    <!--Logo Row-->
+    <div class="container box-border">
+        <img src="~/img/logo.png" alt="RK BiggBoss" title="RK BiggBoss" class="logo-img" />
+    </div>
+    <!--Welcome Row-->
+    <div class="container box-border box-pad">
+        <img src="~/img/laxmi.jpg" alt="laxmi mata" style="width:160px;height:130px" title="laxmi mata" id="laxmimata" />
+        <p class="welcome-txt">!! Welcome Friends in the world of RK BiggBoss mataka group. May you always win. !!</p>
+    </div>
+
+    @if (Model.luckyNunberPartial != null)
+    {
+        <partial name="_LuckyNumberPartial" model="Model.luckyNunberPartial" />
+        // await RenderSectionAsync("_LuckyNumberPartial", Model.luckyNunberPartial);
+    }
+    <!--All 220 Card List-->
+    <div class="container box-border pad-left-rig-0 text-center all-result">
+        <a href='@Url.Action("all220","Default")'><h3>All 220 Card List</h3></a>
+    </div>
+    <div class="container box-border pad-left-rig-0 text-center star-result">
+        <div class="fullwidth">
+            <div class="col-md-6 pad-top-bot-5">
+                <a href="/jodichart" class="btn_chart">Jodi</a>
+            </div>
+            <div class="col-md-6 pad-top-bot-5">
+                <a href="/pannelchart" class="btn_chart float-right">Panel</a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!--Live Result Row-->
+    <div class="container box-border pad-left-rig-0 text-center live-result">
+        <h4>☔LIVE RESULT☔</h4>
+        <marquee>** कृपया ध्यान दे | कई हॅकर्स की वजह से यह वेबसाईट हॅक हो सकती है | यह अगर हॅक हो गया तो ऑफलाईन पेपर में रिझल्ट देखे या निचे दिये गये Whatsapp no पे मेसेज किजिए |**</marquee>
+        <h3 class="lucky-h3">Office Whatsapp Number</h3>
+        <!--Open Close Row-->
+        @if (Model.whatsNumberPartialView != null)
+        {
+            <partial name="_WhatsappPartial" model="Model.whatsNumberPartialView" />
+        }
+    </div>
+    @if (Model.opClPartialViewModel != null)
+    {
+        <partial name="_OpenClosePartial" model="Model.opClPartialViewModel" />
+    }
+    <!--Disclamer Row-->
+    <div class="container box-border pad-left-rig-0 disclamer">
+        <h4>-:DISCLAIMER:-</h4>
+        <p>We strictly recommend you to please visit and browse this site on your own risk. All the information available here is strictly for informational purposes and based on astrology and numerology calculations. We are no way associated or affiliated with any illegal Matka business. We abide by rules and regulations of the regions where you are accessing the website. May be it is illegal or banned in your region. If you are using our website despite ban, you will be solely responsible for the damage or loss occurred or legal action taken. Please leave our website immediately if you dont like our disclaimer. Copying any information / content posted on the website is strictly prohibited and against the law.</p>
+    </div>
+    <!--Powerd by Row-->
+    <div class="container box-border pad-left-rig-0 disclamer">
+        <h4 class="pby-us">POWERD BY rkbiggboss.net</h4>
+    </div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model WhatsNumberPartialViewModel
+
+@{
+    foreach (var item in Model.tblCaontactNumbers)
+    {
+        <div class="fullwidth">
+            <div class="col-md-6 pad-top-bot-5">
+                <a href="https://wa.me/@item.number1" target="_blank" title="whatsapp">@item.number1</a>
+            </div>
+            <div class="col-md-6 border-left pad-top-bot-5">
+                <a href="https://wa.me/@item.number2" target="_blank" title="whatsapp">@item.number2</a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    }
+    foreach (var item in Model.tblCaontactNumbers)
+    {
+        <div class="fullwidth">
+            <div class="col-md-6 pad-top-bot-5">
+                <a href="https://wa.me/@item.number1" target="_blank" title="whatsapp">@item.number1</a>
+            </div>
+            <div class="col-md-6 border-left pad-top-bot-5">
+                <a href="https://wa.me/@item.number2" target="_blank" title="whatsapp">@item.number2</a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    }
+
+}
+

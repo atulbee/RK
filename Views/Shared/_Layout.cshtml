@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <partial name="_PageHeadElement" />
+
+    @RenderSection("Styles", required: false)
+    @RenderSection("HeadScripts", required: false)
+</head>
+<body>
+
+    <div class="overlay"></div>
+    <div class="spanner">
+        <div class="loader"></div>
+        <p>Loding, please be patient.</p>
+    </div>
+    <partial name="_GoogleTagManagerBodyElement" />
+
+    <partial name="_Sidenav" />
+    <div class="main-content">
+        <partial name="Topnav/_Topnav" />
+
+        <!-- Header -->
+        <div class="header bg-primary pb-6">
+            <div class="container-fluid">
+                <div class="header-body">
+                    <!-- 1st Row: Crumbs and filters -->
+                    <div class="row align-items-center py-4">
+                        @RenderSection("Breadcrumbs", required: false)
+                        <div class="col-lg-6 col-5 text-right">
+                            <a href="#" class="btn btn-sm btn-neutral">New</a>
+                            <a href="#" class="btn btn-sm btn-neutral">Filters</a>
+                        </div>
+                    </div>
+                    @RenderSection("DashboardCards", required: false)
+                </div>
+            </div>
+        </div>
+
+        <!-- Page content -->
+        <div class="container-fluid mt--6">
+            <!-- Page content -->
+            @RenderBody()
+            <partial name="_Footer" />
+        </div>
+    </div>
+
+    <partial name="_ThemeScripts" />
+
+    @RenderSection("Scripts", required: false)
+
+<script>
+
+        $(document).ready(function () {
+            $("#customerDatatable").DataTable({
+                "processing": true, // for show progress bar
+                "serverSide": true, // for process server side
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": false, // for disable multiple column at once
+                "ajax": {
+                    "url": "/loaddata",
+                    "type": "POST",
+                    "datatype": "json",
+                    //contentType: "application/json; charset=utf-8",
+
+                    beforeSend: function (xhr) {
+                        xhr.setRequestHeader("XSRF-TOKEN",
+                            $('input:hidden[name="__RequestVerificationToken"]').val());
+                    },
+                },
+
+                "columns": [
+                    { "data": "dayseq", "name": "Sr. No.", "autoWidth": true },
+                    { "data": "publish_date", "name": "Date", "autoWidth": true },
+                    { "data": "timeslot", "name": "Time Slot", "autoWidth": true },
+                    { "data": "op", "name": "Open", "autoWidth": true },
+                    { "data": "jd", "name": "Jodi", "autoWidth": true },
+                    { "data": "cl", "name": "Close", "autoWidth": true },
+
+                    {
+                        "render": function (data, type, row) { return '<input class="form-check-input chkApprove" ' + (row.publish_status==true ? 'checked="checked" disabled="disabled"' : '') + ' type="checkbox" value="' + row.id + '" />'; }
+                    },
+
+                    {
+                        data: null,
+                        render: function (data, type, row) {
+                            @*return "<a href='@Url.Action("AddOpCl")/" +  row.id + "' class='btn btn-danger' >Edit</a>";*@
+                            return "<a href='" + $('#customerDatatable').data('url-edit').replace("replace", row.id) + "' class='btn btn-danger' >Edit</a>";
+                        }
+                    },
+                    {
+                        data: null,
+                        render: function (data, type, row) {
+                            return "<a href='#' class='btn btn-danger' onclick=DeleteData('" + row.id + "'); >Delete</a>";
+                        }
+                    },
+                ]
+
+            });
+
+            $("#ViewOpClDatatable").DataTable({
+                "processing": true, // for show progress bar
+                "serverSide": true, // for process server side
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": false, // for disable multiple column at once
+                "ajax": {
+                    "url": "/loaddata",
+                    "type": "POST",
+                    "datatype": "json",
+                    //contentType: "application/json; charset=utf-8",
+
+                    beforeSend: function (xhr) {
+                        xhr.setRequestHeader("XSRF-TOKEN",
+                            $('input:hidden[name="__RequestVerificationToken"]').val());
+                    },
+                },
+
+                "columns": [
+                    { "data": "dayseq", "name": "Sr. No.", "autoWidth": true },
+                    { "data": "publish_date", "name": "Date", "autoWidth": true },
+                    { "data": "timeslot", "name": "Time Slot", "autoWidth": true },
+                    { "data": "op", "name": "Open", "autoWidth": true },
+                    { "data": "jd", "name": "Jodi", "autoWidth": true },
+                    { "data": "cl", "name": "Close", "autoWidth": true },
+
+                    {
+                        "render": function (data, type, row) { return '<input class="form-check-input chkApprove" ' + (row.publish_status==true ? 'checked="checked" disabled="disabled"' : '') + ' type="checkbox" value="' + row.id + '" />'; }
+                    },
+
+                    {
+                        data: null,
+                        render: function (data, type, row) {
+                            @*return "<a href='@Url.Action("AddOpCl")/" +  row.id + "' class='btn btn-danger' >Edit</a>";*@
+                            return "<a href='" + $('#ViewOpClDatatable').data('url-edit').replace("replace", row.id) + "' class='btn btn-danger' >Edit</a>";
+                        }
+                    },
+                    {
+                        data: null,
+                        render: function (data, type, row) {
+                            return "<a href='#' class='btn btn-danger' onclick=DeleteData('" + row.id + "'); >Delete</a>";
+                        }
+                    },
+                ]
+
+            });
+
+
+            $("#cnDatatable").DataTable({
+                "processing": true, // for show progress bar
+                "serverSide": true, // for process server side
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": false, // for disable multiple column at once
+                "ajax": {
+                    "url": "/loadcndata",
+                    "type": "POST",
+                    "datatype": "json",
+                    //contentType: "application/json; charset=utf-8",
+
+                    beforeSend: function (xhr) {
+                        xhr.setRequestHeader("XSRF-TOKEN",
+                            $('input:hidden[name="__RequestVerificationToken"]').val());
+                    },
+                },
+                "columns": [
+                    { "data": "id", "name": "ID", "autoWidth": true },
+                    { "data": "number1", "name": "Mobile Number 1", "autoWidth": true },
+                    { "data": "number2", "name": "Mobile Number 2", "autoWidth": true }
+                ]
+
+            });
+            $("#lnDatatable").DataTable({
+                "processing": true, // for show progress bar
+                "serverSide": true, // for process server side
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": false, // for disable multiple column at once
+                "ajax": {
+                    "url": "/loadlndata",
+                    "type": "POST",
+                    "datatype": "json",
+                    //contentType: "application/json; charset=utf-8",
+
+                    beforeSend: function (xhr) {
+                        xhr.setRequestHeader("XSRF-TOKEN",
+                            $('input:hidden[name="__RequestVerificationToken"]').val());
+                    },
+                },
+                "columns": [
+
+                    { "data": "id", "name": "ID", "autoWidth": true },
+                    { "data": "luckyNumberType", "name": "Lucky Number Type", "autoWidth": true },
+                    { "data": "luckyNumber", "name": "Lucky Number", "autoWidth": true },
+                    { "data": "date", "name": "Date", "autoWidth": true },
+                    {
+                        "render": function (data, type, row) { return '<input class="form-check-input chkLNApprove" ' + (row.status == true ? 'checked="checked" disabled="disabled"' : '') + ' type="checkbox" value="' + row.id + '" />'; }
+                    },
+                    {
+
+                        render: function (data, type, row) {
+                            return "<input type='submit' class='btn btn-info'  name='lnEdit' value='Edit' /><input type='hidden' name='lnHd' value='" + row.id + "' />";
+                        }
+                    }
+                ]
+
+            });
+
+
+        });
+
+        function EditLNData(id,luckyNumberType ,luckyNumber ,date) {
+            var url = "/addluckynumber";
+            $.post(url, { id: id, luckyNumberType: luckyNumberType, luckyNumber: luckyNumber, date: date},function (data) {
+                if (data) {
+                    oTable = $('#lnDatatable').DataTable();
+                    oTable.draw();
+                } else {
+                    alert("Something Went Wrong!");
+                }
+            });
+        }
+        function DeleteData(id) {
+            if (confirm("Are you sure you want to delete ...?")) {
+                Delete(id);
+            } else {
+                return false;
+            }
+        }
+        $('#lnDatatable').on("change", ".chkLNApprove", function (event) {
+            if ($(this).is(":checked")) {
+                var url = "/lnapprove";
+                $.post(url, { id: $(this).val() }, function (data) {
+                    if (data) {
+                        oTable = $('#lnDatatable').DataTable();
+                        oTable.draw();
+                    } else {
+                        alert("Something Went Wrong!");
+                    }
+                });
+            }
+        });
+        $('#customerDatatable').on("change", ".chkApprove", function (event) {
+            if ($(this).is(":checked")) {
+                var url = "/opclapprove";
+                $.post(url, { id: $(this).val() }, function (data) {
+                    if (data) {
+                        oTable = $('#customerDatatable').DataTable();
+                        oTable.draw();
+                    } else {
+                        alert("Something Went Wrong!");
+                    }
+                });
+            }
+
+        });
+
+        function Delete(id) {
+            var url = "/opcldelete";
+
+            $.post(url, { id: id }, function (data) {
+                if (data) {
+                    oTable = $('#customerDatatable').DataTable();
+                    oTable.draw();
+                } else {
+                    alert("Something Went Wrong!");
+                }
+            });
+        }
+        function GetJODI(open,close) {
+
+            var value = 2568,
+                opensum = 0;
+            closesum = 0;
+            openlastdigit = 0;
+            closelastdigit = 0;
+            if (open != "") {
+                while (open) {
+                    opensum += open % 10;
+                    open = Math.floor(open / 10);
+                }
+                openlastdigit = opensum % 10;
+            }
+            if (close != "") {
+                while (close) {
+                    closesum += close % 10;
+                    close = Math.floor(close / 10);
+                }
+                closelastdigit = closesum % 10;
+            }
+
+
+            return ("" + openlastdigit + closelastdigit)
+        }
+        $("#o, #c").on('change keyup paste', function () {
+            open =parseInt($("#o").val());
+            close = parseInt($("#c").val());
+                opensum = 0;
+            closesum = 0;
+            openlastdigit = 0;
+            closelastdigit = 0;
+            op = open;
+            cl = close;
+            if (open != "" && open != 0) {
+                if (open != 101010) {
+                    while (op) {
+                        opensum += op % 10;
+                        op = Math.floor(op / 10);
+                    }
+                    openlastdigit = opensum % 10;
+                    if (openlastdigit == 0) {
+                        openlastdigit = 10;
+                    }
+                } else {
+                    openlastdigit = 10;
+                }
+            }
+            if (close != "" && close != 0) {
+                if (close != 101010) {
+                    while (cl) {
+                        closesum += cl % 10;
+                        cl = Math.floor(cl / 10);
+                    }
+                    closelastdigit = closesum % 10;
+                    if (closelastdigit == 0) {
+                        closelastdigit = 10;
+                    }
+                } else {
+                    closelastdigit = 10;
+                }
+            }
+            if (open == 0)
+                openlastdigit = "";
+            if (close == 0)
+                closelastdigit = "";
+            $("#jd").val(("" + openlastdigit + closelastdigit));
+        });
+
+        function displayBusyIndicator() {
+            $("div.spanner").addClass("show");
+            $("div.overlay").addClass("show");
+        }
+        $(window).on('beforeunload', function () {
+            displayBusyIndicator();
+        });
+        $(document).on('submit', 'form', function () {
+            displayBusyIndicator();
+        });
+</script>
+
+</body>
+</html>

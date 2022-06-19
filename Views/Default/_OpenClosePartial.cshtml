@@ -1,0 +1,79 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+@model OpClPartialViewModel
+<!--Star Kalyan Result Row-->
+<div class="container box-border pad-left-rig-0 star-result">
+    <h3>STAR KALYAN RESULT</h3>
+    <h4 class="banner">World Me Sabse Fast Satta Matka Result</h4>
+    @{
+        var preTimeSlot = "";
+        foreach (var item in Model.tblOpCls)
+        {
+            @if (item.timeslot != preTimeSlot && !string.IsNullOrEmpty(preTimeSlot))
+            {
+                <div class="fullwidth" style="background-color:#DFFF00;">
+                   <br />
+                </div>
+            }
+            <div class="fullwidth">
+                <div class="col-xs-3">
+                    <a href="/jodichart" class="btn_chart">Jodi</a>
+                </div>
+                <div class="col-xs-6">
+                    @{
+                        var op = @item.op.ToString() == "101010" ? "000" : @item.op.ToString();
+                        var jd = @item.jd;
+                        var newJodi = jd.ToString();
+                        var cl = @item.cl.ToString() == "101010" ? "000" : @item.cl.ToString();
+                        if (jd.ToString().Length > 2 || jd.ToString() == "10")
+                        {
+
+                            var jodiString = jd.ToString();
+                            if (jodiString.Substring(0, 2) == "10")
+                            {
+                                newJodi = "0" + jodiString.Substring(2);
+                            }
+                            if (jd.ToString().Length > 3)
+                            {
+                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                {
+                                    if (jodiString.Substring(0, 2) == "10")
+                                        newJodi = "00";
+                                    else
+                                        newJodi = jodiString.Substring(jodiString.Length - 2, 2) + "0";
+                                }
+                            }
+                            else if (jd.ToString().Length == 3)
+                            {
+                                if (jodiString.Substring(0, 2) == "10")
+                                {
+                                    newJodi = "0" + jodiString.Substring(2);
+                                }
+                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                {
+                                    newJodi = jodiString.Substring(0, 1) + "0";
+                                }
+
+                            }
+
+                        }
+                    }
+                    <h5>@{ var o = op == "0" ? "" : op; } @o-@newJodi@{ var c = cl == "0" ? "" : ("-" + cl); }@c</h5>
+                    <h6>@item.timeslot</h6>
+                </div>
+                <div class="col-xs-3">
+                    <a href="/pannelchart" class="btn_chart float-right">Panel</a>
+                </div>
+                <div class="clearfix"></div>
+
+            </div>
+            preTimeSlot = item.timeslot;
+        }
+    }
+
+
+</div>

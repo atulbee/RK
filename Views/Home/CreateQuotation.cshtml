@@ -1,0 +1,210 @@
+@{ ViewData["Title"] = "Icons"; }
+<div class="row justify-content-center">
+    <div class="col">
+        <div class="card">
+            <div class="card-header bg-transparent">
+                <h3 class="mb-0">Add Numbers</h3>
+            </div>
+            <div class="card-body">
+                <form id="account" method="post">
+                    @if (!ViewData.ModelState.IsValid && ViewData.ModelState[string.Empty] != null)
+                    {
+        @foreach (var error in @ViewData.ModelState[string.Empty]?.Errors)
+        {
+<div class="alert alert-danger alert-dismissible fade show" role="alert">
+    <span>@error.ErrorMessage</span>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">×</span>
+    </button>
+</div>}}
+
+                    <div class="form-group mb-3">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins">Quotation No</i>
+                                </span>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input placeholder="Quotation Title" type="text" class="form-control" />
+                        </div>
+                        <span class="invalid-feedback" style="display: block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input placeholder="Quotation Description" type="text" class="form-control" />
+                        </div>
+                        <span  class="invalid-feedback" style="display: block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input placeholder="Estimated Cost" type="text" class="form-control" />
+                        </div>
+                        <span class="invalid-feedback" style="display: block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins">Publish From</i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input placeholder="Date" type="date" class="form-control" />
+                        </div>
+                        <span class="invalid-feedback" style="display: block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins">Publish To</i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input placeholder="Date" type="date" class="form-control" />
+                        </div>
+                        <span class="invalid-feedback" style="display: block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins">Upload Technical Documents (Only .pdf allowed)</i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input type="file" class="custom-file-input" id="inputGroupFile01"
+                                   aria-describedby="inputGroupFileAddon01">
+                            <label class="custom-file-label"> Choose file </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins">Upload Commercial Documents (Only .pdf allowed)</i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-alternative">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <i class="ni ni-money-coins"></i>
+                                </span>
+                            </div>
+                            <input type="file" class="custom-file-input" id="inputGroupFile01"
+                                   aria-describedby="inputGroupFileAddon01">
+                            <label class="custom-file-label"> Choose file </label>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button class="btn btn-primary my-4" type="submit">Submit Quotation</button>
+                    </div>
+                    <div class="form-group" style="width:90%; margin:0 auto;">
+                        <table id="customerDatatable" class="table table-striped table-bordered dt-responsive nowrap" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Quotion No</th>
+                                    <th>Title</th>
+                                    <th>Description</th>
+                                    <th></th>
+                                    
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Tiger Nixon</td>
+                                    <td>System Architect</td>
+                                    <td>Edinburgh</td>
+                                    <td><button class="btn btn-primary my-4" type="submit">Publish</button></td>
+                                  
+                                </tr>
+                                <tr>
+                                    <td>Garrett Winters</td>
+                                    <td>Accountant</td>
+                                    <td>Tokyo</td>
+                                    <td><button class="btn btn-primary my-4" type="submit">Publish</button></td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td>Ashton Cox</td>
+                                    <td>Junior Technical Author</td>
+                                    <td>San Francisco</td>
+                                    <td><button class="btn btn-primary my-4" type="submit">Publish</button></td>
+                                   
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Breadcrumbs
+{
+    <div class="col-lg-6 col-7">
+        <h6 class="h2 text-white d-inline-block mb-0">Create Quotation</h6>
+        <nav aria-label="breadcrumb" class="d-none d-md-inline-block ml-md-4">
+            <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
+                <li class="breadcrumb-item">
+                    <a href="#">
+                        <i class="fas fa-home"></i>
+                    </a>
+                </li>
+                @*<li class="breadcrumb-item">
+                        <a href="#">Components</a>
+                    </li>*@
+                <li class="breadcrumb-item active" aria-current="page">Create Quotation</li>
+            </ol>
+        </nav>
+    </div>
+}

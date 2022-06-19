@@ -1,0 +1,314 @@
+@{
+    Layout = null;
+}
+@model HomePageViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KALYAN MATKA | MATKA RESULT | KALYAN MATKA TIPS | SATTA MATKA | MATKA.COM | MATKA PANA JODI TODAY | BATTA SATKA | MATKA PATTI JODI NUMBER | MATKA RESULTS | MATKA CHART | MATKA JODI | SATTA COM | FULL RATE GAME | MATKA GAME | MATKA WAPKA | ALL MATKA RESULT LIVE ONLINE | MATKA RESULT | KALYAN MATKA RESULT | DPBOSS MATKA 143 | MAIN MATKA</title>
+    <meta charset="utf-8" />
+    <!--Css files-->
+    <link href="css/dpboss.css" rel="stylesheet" />
+    <!--Bootstrap Css -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <!--Meta Tags-->
+    <meta name="copyright" content="Copyright © 2021 rkbiggboss.net All Rights Reserved." />
+    <meta name="revisit-after" content="2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+</head>
+<body>
+    <!--Logo Row-->
+    <div class="container box-border">
+        <img src="~/img/logo.png" alt="RK BiggBoss" title="RK BiggBoss" class="logo-img" />
+    </div>
+    <!--Go To Bottom Row-->
+    <div class="container">
+        <div id="top"></div>
+        <a href="#bottom" class="button2"> Go to Bottom </a>
+        <div class="panel panel-info">
+            <div class="panel-heading text-center">
+                Star Kalyan Pannel Chart
+            </div>
+            <div class="panel-body text-center">
+                @{
+                    foreach (var item in Model.opClPartialViewModel.tblOpCls.Where(c => c.cl != 0).GroupBy(a => new { a.publish_date, a.timeslot }).OrderByDescending(a => a.Key.publish_date))
+                    {
+                        <table class="panel-chart chart-table" cellpadding="2">
+                            <thead>
+                                <tr>
+                                    @{
+                                        var countOP_CL = @Model.opClPartialViewModel.tblOpCls.Where(a => a.publish_date == @item.Key.publish_date && a.timeslot == @item.Key.timeslot && a.cl != 0).Count() * 3;
+                                        var countOPOnly = @Model.opClPartialViewModel.tblOpCls.Where(a => a.publish_date == @item.Key.publish_date && a.timeslot == @item.Key.timeslot && a.cl == 0).Count() * 2;
+                                        var totalColspan = countOP_CL + countOPOnly;
+                                    }
+                                    <th colspan="30" class="text-center">
+                                        @item.Key.publish_date.ToString("dd-MM-yyyy - dddd")<br />
+                                        <span class="chart-time">@item.Key.timeslot</span>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{
+                                    var firstRow = "<tr>";
+                                    var secondRow = "<tr>";
+                                    var perRowCount = 0;
+                                    var totalRecordCount = 0;
+                                    foreach (var childitem in Model.opClPartialViewModel.tblOpCls.Where(a => a.publish_date == @item.Key.publish_date && a.timeslot == @item.Key.timeslot && a.cl != 0))
+                                    {
+                                        if (perRowCount < 15)
+                                        {
+                                            char[] strjd;
+                                            if (childitem.op.ToString() == "101010")
+                                            {
+                                                strjd = "000".ToCharArray();
+                                            }
+                                            else
+                                            {
+                                                strjd = childitem.op.ToString().ToCharArray();
+                                            }
+                                            if (childitem.isSpecial)
+                                            {
+                                                firstRow = firstRow + "<td class='txt-red'>";
+                                            }
+                                            else
+                                            {
+                                                firstRow = firstRow + "<td>";
+                                            }
+
+                                            for (int i = 0; i < strjd.Length; i++)
+                                            {
+                                                firstRow = firstRow + strjd[i] + "<br />";
+                                            }
+                                            firstRow = firstRow + "</td>";
+                                            if (childitem.jd.ToString().Length > 3)
+                                            {
+                                                var newJodi = childitem.jd.ToString();
+                                                var jodiString = childitem.jd.ToString();
+                                                if (jodiString.Substring(0, 2) == "10")
+                                                {
+                                                    newJodi = "0" + jodiString.Substring(2);
+                                                }
+                                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                                {
+                                                    if (jodiString.Substring(0, 2) == "10")
+                                                        newJodi = "00";
+                                                    else
+                                                        newJodi = jodiString.Substring(jodiString.Length - 2, 2) + "0";
+                                                }
+                                                if (childitem.isSpecial)
+                                                {
+                                                    firstRow = firstRow + "<td class='txt-red'>" + newJodi + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    firstRow = firstRow + "<td>" + newJodi + "</td>";
+                                                }
+                                            }
+                                            else if (childitem.jd.ToString().Length == 3)
+                                            {
+                                                var newJodi = childitem.jd.ToString();
+                                                var jodiString = childitem.jd.ToString();
+                                                if (jodiString.Substring(0, 2) == "10")
+                                                {
+                                                    newJodi = "0" + jodiString.Substring(2);
+                                                }
+                                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                                {
+                                                    newJodi = jodiString.Substring(0, 1) + "0";
+                                                }
+                                                if (childitem.isSpecial)
+                                                {
+                                                    firstRow = firstRow + "<td class='txt-red'>" + newJodi + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    firstRow = firstRow + "<td>" + newJodi + "</td>";
+                                                }
+                                            }
+                                            else
+                                            {
+                                                if (childitem.isSpecial)
+                                                {
+                                                    firstRow = firstRow + "<td class='txt-red'>" + childitem.jd.ToString() + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    firstRow = firstRow + "<td>" + childitem.jd.ToString() + "</td>";
+                                                }
+                                            }
+                                            if (childitem.cl != 0)
+                                            {
+                                                char[] strcl;
+                                                if (childitem.cl.ToString() == "101010")
+                                                {
+                                                    strcl = "000".ToCharArray();
+                                                }
+                                                else
+                                                {
+                                                    strcl = childitem.cl.ToString().ToCharArray();
+                                                }
+                                                if (childitem.isSpecial)
+                                                {
+                                                    firstRow = firstRow + "<td class='txt-red'>";
+                                                }
+                                                else
+                                                {
+                                                    firstRow = firstRow + "<td>";
+                                                }
+                                                for (int i = 0; i < strcl.Length; i++)
+                                                {
+                                                    firstRow = firstRow + strcl[i] + "<br />";
+                                                }
+                                                firstRow = firstRow + "</td>";
+                                            }
+                                        }
+                                        else
+                                        {
+                                            char[] strjd;
+                                            if (childitem.op.ToString() == "101010")
+                                            {
+                                                strjd = "000".ToCharArray();
+                                            }
+                                            else
+                                            {
+                                                strjd = childitem.op.ToString().ToCharArray();
+                                            }
+                                            if (childitem.isSpecial)
+                                            {
+                                                secondRow = secondRow + "<td class='txt-red'>";
+                                            }
+                                            else
+                                            {
+                                                secondRow = secondRow + "<td>";
+                                            }
+                                            for (int i = 0; i < strjd.Length; i++)
+                                            {
+                                                secondRow = secondRow + strjd[i] + "<br />";
+                                            }
+                                            secondRow = secondRow + "</td>";
+                                            if (childitem.jd.ToString().Length > 3)
+                                            {
+                                                var newJodi = childitem.jd.ToString();
+                                                var jodiString = childitem.jd.ToString();
+                                                if (jodiString.Substring(0, 2) == "10")
+                                                {
+                                                    newJodi = "0" + jodiString.Substring(2);
+                                                }
+                                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                                {
+                                                    if (jodiString.Substring(0, 2) == "10")
+                                                        newJodi = "00";
+                                                    else
+                                                        newJodi = jodiString.Substring(jodiString.Length - 2, 2) + "0";
+                                                }
+                                                if (childitem.isSpecial)
+                                                {
+                                                    secondRow = secondRow + "<td class='txt-red'>" + newJodi + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    secondRow = secondRow + "<td>" + newJodi + "</td>";
+                                                }
+
+                                            }
+                                            else if (childitem.jd.ToString().Length == 3)
+                                            {
+                                                var newJodi = childitem.jd.ToString();
+                                                var jodiString = childitem.jd.ToString();
+                                                if (jodiString.Substring(0, 2) == "10")
+                                                {
+                                                    newJodi = "0" + jodiString.Substring(2);
+                                                }
+                                                if (jodiString.Substring(jodiString.Length - 2, 2) == "10")
+                                                {
+                                                    newJodi = jodiString.Substring(0, 1) + "0";
+                                                }
+                                                if (childitem.isSpecial)
+                                                {
+                                                    secondRow = secondRow + "<td class='txt-red'>" + newJodi + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    secondRow = secondRow + "<td>" + newJodi + "</td>";
+                                                }
+                                            }
+                                            else
+                                            {
+                                                if (childitem.isSpecial)
+                                                {
+                                                    secondRow = secondRow + "<td class='txt-red'>" + childitem.jd.ToString() + "</td>";
+
+                                                }
+                                                else
+                                                {
+                                                    secondRow = secondRow + "<td>" + childitem.jd.ToString() + "</td>";
+                                                }
+                                            }
+                                            if (childitem.cl != 0)
+                                            {
+                                                char[] strcl;
+                                                if (childitem.cl.ToString() == "101010")
+                                                {
+                                                    strcl = "000".ToCharArray();
+                                                }
+                                                else
+                                                {
+                                                    strcl = childitem.cl.ToString().ToCharArray();
+                                                }
+
+                                                if (childitem.isSpecial)
+                                                {
+                                                    secondRow = secondRow + "<td class='txt-red'>";
+                                                }
+                                                else
+                                                {
+                                                    secondRow = secondRow + "<td>";
+                                                }
+                                                for (int i = 0; i < strcl.Length; i++)
+                                                {
+                                                    secondRow = secondRow + strcl[i] + "<br />";
+                                                }
+                                                secondRow = secondRow + "</td>";
+                                            }
+                                        }
+                                        perRowCount++;
+                                        totalRecordCount++;
+                                    }
+                                    for (int i = (totalRecordCount * 3); i < 30; i++)
+                                    {
+                                        firstRow = firstRow + "<td>*<br />*<br />*</td>";
+                                        secondRow = secondRow + "<td>*<br />*<br />*</td>";
+                                    }
+                                    firstRow = firstRow + " </tr>";
+                                    secondRow = secondRow + " </tr>";
+                                }
+                                @Html.Raw(firstRow)
+                                @*@Html.Raw(secondRow)*@
+
+
+                            </tbody>
+                        </table>
+                    }
+                }
+            </div>
+        </div>
+        <div id="bottom"></div>
+        <a href="#top" class="button2"> Go to Top </a>
+    </div>
+
+    <!--Disclamer Row-->
+    <div class="container box-border pad-left-rig-0 disclamer">
+        <h4>-:DISCLAIMER:-</h4>
+        <p>We strictly recommend you to please visit and browse this site on your own risk. All the information available here is strictly for informational purposes and based on astrology and numerology calculations. We are no way associated or affiliated with any illegal Matka business. We abide by rules and regulations of the regions where you are accessing the website. May be it is illegal or banned in your region. If you are using our website despite ban, you will be solely responsible for the damage or loss occurred or legal action taken. Please leave our website immediately if you dont like our disclaimer. Copying any information / content posted on the website is strictly prohibited and against the law.</p>
+    </div>
+    <!--Powerd by Row-->
+    <div class="container box-border pad-left-rig-0 disclamer">
+        <h4 class="pby-us">POWERD BY rkbiggboss.net</h4>
+    </div>
+</body>
+</html>
