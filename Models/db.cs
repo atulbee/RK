@@ -190,6 +190,58 @@ namespace CreativeTim.Argon.DotNetCore.Free.Models
             }
             return result;
         }
+
+        public async Task<int> UpdateSequence(string recid,string seqtype)
+        {
+            var result = 0;
+            try
+            {
+                using (var command = applicationDbContext.Database.GetDbConnection().CreateCommand())
+                {
+                    command.CommandText = "[dbo].[strprocInsertOpCl]";
+                    command.CommandType = CommandType.StoredProcedure;
+                    SqlParameter id = new SqlParameter("@id", SqlDbType.Int);
+                    id.Value = Convert.ToInt32(recid);
+                    SqlParameter publish_status = new SqlParameter("@publish_status", SqlDbType.Bit);
+                    publish_status.Value = 0;
+                    SqlParameter isSpecial = new SqlParameter("@isSpecial", SqlDbType.Bit);
+                    isSpecial.Value = 0;
+                    command.Parameters.Add(id);
+                    // command.Parameters.Add(new SqlParameter("@id", 0));
+                    command.Parameters.Add(new SqlParameter("@op", ""));
+                    command.Parameters.Add(new SqlParameter("@cl", ""));
+                    command.Parameters.Add(new SqlParameter("@jd", ""));
+                    command.Parameters.Add(publish_status);
+                    command.Parameters.Add(new SqlParameter("@publish_date", indianTime));
+                    command.Parameters.Add(new SqlParameter("@timeslot", ""));
+                    command.Parameters.Add(isSpecial);
+                    command.Parameters.Add(new SqlParameter("@StatementType", "Approve"));
+
+                    SqlParameter sqlParameter = new SqlParameter("@return_value", SqlDbType.Int);
+                    sqlParameter.Direction = ParameterDirection.Output;
+                    command.Parameters.Add(sqlParameter);
+                    await applicationDbContext.Database.OpenConnectionAsync();
+                    await command.ExecuteNonQueryAsync();
+                    {
+                        result = Convert.ToInt32(sqlParameter.Value);
+                        //if (r.HasRows)
+                        //{
+                        //    r.Read();
+                        //    var x = r.GetInt32(0); // x = your sp count value
+                        //}
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                result = 0;
+            }
+            finally
+            {
+                await applicationDbContext.Database.CloseConnectionAsync();
+            }
+            return result;
+        }
         public async Task<List<tblOpCl>> GetOpCl(int id=0)
         {
             List<tblOpCl> tblOpClList = new List<tblOpCl>();
@@ -542,13 +594,12 @@ namespace CreativeTim.Argon.DotNetCore.Free.Models
             try
             {
                 using (var command = applicationDbContext.Database.GetDbConnection().CreateCommand())
-                {
+                {   
                     command.CommandText = "[dbo].[strprocGetOPCLToday]";
                     command.CommandType = CommandType.StoredProcedure;
                     await applicationDbContext.Database.OpenConnectionAsync();
                     DbDataReader reader = await command.ExecuteReaderAsync();
                     {
-
                         while (reader.Read())
                         {
                             tblOpCl tbl = new tblOpCl();

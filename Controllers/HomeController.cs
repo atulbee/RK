@@ -248,8 +248,8 @@ namespace CreativeTim.Argon.DotNetCore.Free.Controllers
         }
 
 
-        [HttpGet("/viewopcl/{id?}")]
-        public async Task<IActionResult> ViewOpClose(int? id)
+        [HttpGet("/viewopclose/{id?}/{seqtype?}")]
+        public async Task<IActionResult> ViewOpClose(int? id,string seqtype)
         {
             AddOpClViewModel addOpClViewModel = new AddOpClViewModel();
             if (id != null)
@@ -267,6 +267,23 @@ namespace CreativeTim.Argon.DotNetCore.Free.Controllers
 
         }
 
+
+        [HttpPost("/viewopclose/{id?}/{seqtype?}")]
+        public async Task<IActionResult> ViewOpClose(AddOpClViewModel addOpClViewModel)
+        {
+
+            var x = await dbContext.InsertOpCl(addOpClViewModel);
+            //     var x = await dbContext.GetOpCl();
+            if (addOpClViewModel != null)
+            {
+                return View(addOpClViewModel);
+            }
+            else
+            {
+                addOpClViewModel = new AddOpClViewModel();
+                return View(addOpClViewModel);
+            }
+        }
         [HttpPost("/loadviewopcldata")]
         public async Task<IActionResult> LoadOpClData()
         {

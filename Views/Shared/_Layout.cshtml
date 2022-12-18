@@ -130,15 +130,9 @@
                         data: null,
                         render: function (data, type, row) {
                             @*return "<a href='@Url.Action("AddOpCl")/" +  row.id + "' class='btn btn-danger' >Edit</a>";*@
-                            return "<a href='" + $('#ViewOpClDatatable').data('url-edit').replace("replace", row.id) + "' class='btn btn-danger' >Edit</a>";
+                            return "<a href='" + $('#ViewOpClDatatable').data('url-edit').replace("replace", row.id).replace("replaceseq", "up") + "' class='btn btn-danger' >Up</a><a href='" + $('#ViewOpClDatatable').data('url-edit').replace("replace", row.id).replace("replaceseq", "down") + "' class='btn btn-danger' >Down</a>";
                         }
-                    },
-                    {
-                        data: null,
-                        render: function (data, type, row) {
-                            return "<a href='#' class='btn btn-danger' onclick=DeleteData('" + row.id + "'); >Delete</a>";
-                        }
-                    },
+                    }
                 ]
 
             });

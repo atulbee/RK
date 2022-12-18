@@ -218,7 +218,7 @@ namespace CreativeTim.Argon.DotNetCore.Free
             app.UseEndpoints(eb =>
             {
                 eb.MapRazorPages();
-                eb.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
+                eb.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}/{seqtype?}");
               //  eb.MapControllerRoute("default1", "{controller=Home}/{action=Index}");
             });
         }

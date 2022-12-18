@@ -1,0 +1,500 @@
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\appsettings.Development.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\appsettings.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\libman.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.xml
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.exe
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.deps.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.runtimeconfig.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.runtimeconfig.dev.json
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.pdb
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.pdb
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Redis.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\MySql.Data.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Npgsql.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Text.Json.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.AssemblyReference.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.GeneratedMSBuildEditorConfig.editorconfig
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.AssemblyInfoInputs.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.AssemblyInfo.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.CoreCompileInputs.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.MvcApplicationPartsAssemblyInfo.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.MvcApplicationPartsAssemblyInfo.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorAssemblyInfo.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorAssemblyInfo.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\staticwebassets\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.Manifest.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\staticwebassets\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.xml
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.TagHelpers.input.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.TagHelpers.output.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorCoreGenerate.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\all220.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\Index.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\JodiChart.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\PanelChart.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_LuckyNumberPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_OpenClosePartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_WhatsappPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddLuckyNumber.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddNumbers.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddOpCl.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\CreateQuotation.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Icons.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Maps.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Status404.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Status4xx.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Tables.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Upgrade.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\ViewOpClose.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Footer.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Header.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Navbar.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_CurrentUser.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Dropdown.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Links.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Search.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Topnav.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_TopnavProfile.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Breadcrumbs.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Dropdown.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ExternalScripts.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_GoogleTagManagerBodyElement.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_IdentityLayout.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LayoutProfile.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Navbar.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_NavbarUserInfo.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_OpenGraph.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_PageHeadElement.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ScriptsPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Sidenav.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ThemeScripts.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ThemeStyles.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorTargetAssemblyInfo.cache
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorTargetAssemblyInfo.cs
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.pdb
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.CopyComplete
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.dll
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.pdb
+G:\Exabyte Infotech\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.genruntimeconfig.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\libman.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.xml
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.exe
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.deps.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.runtimeconfig.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.runtimeconfig.dev.json
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.pdb
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.pdb
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Redis.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.AssemblyReference.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.AssemblyInfoInputs.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.AssemblyInfo.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.CoreCompileInputs.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorAssemblyInfo.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorAssemblyInfo.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\staticwebassets\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.Manifest.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\staticwebassets\CreativeTim.Argon.DotNetCore.Free.StaticWebAssets.xml
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.TagHelpers.input.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.TagHelpers.output.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorCoreGenerate.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\all220.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\JodiChart.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\PanelChart.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_LuckyNumberPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_OpenClosePartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Default\_WhatsappPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddLuckyNumber.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddNumbers.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\AddOpCl.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\CreateQuotation.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Icons.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Maps.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Status404.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Status4xx.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Tables.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\Upgrade.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Home\ViewOpClose.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Footer.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Header.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Auth\_Navbar.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_CurrentUser.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Dropdown.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Links.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Search.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_Topnav.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\Topnav\_TopnavProfile.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Breadcrumbs.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Dropdown.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ExternalScripts.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_GoogleTagManagerBodyElement.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_IdentityLayout.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LayoutProfile.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Navbar.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_NavbarUserInfo.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_OpenGraph.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_PageHeadElement.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ScriptsPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Sidenav.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ThemeScripts.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ThemeStyles.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorTargetAssemblyInfo.cache
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.RazorTargetAssemblyInfo.cs
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.Views.pdb
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.csproj.CopyComplete
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.dll
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.pdb
+C:\Users\Atul\OneDrive\Documents\Projects\RKBoss.net\RK\RK\obj\Release\netcoreapp3.1\CreativeTim.Argon.DotNetCore.Free.genruntimeconfig.cache
