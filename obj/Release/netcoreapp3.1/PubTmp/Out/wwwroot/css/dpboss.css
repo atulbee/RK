@@ -308,7 +308,7 @@ tbody tr td {
     border: 0px;
 }
 
-    tbody tr td:nth-child(3), tbody tr td:nth-child(6), tbody tr td:nth-child(9), tbody tr td:nth-child(12), tbody tr td:nth-child(15), tbody tr td:nth-child(18), tbody tr td:nth-child(21), tbody tr td:nth-child(24), tbody tr td:nth-child(27) {
+    tbody tr td:nth-child(3), tbody tr td:nth-child(6), tbody tr td:nth-child(9), tbody tr td:nth-child(12), tbody tr td:nth-child(15), tbody tr td:nth-child(18), tbody tr td:nth-child(21), tbody tr td:nth-child(24), tbody tr td:nth-child(27), .allTds {
         border-right: 1px solid #000;
     }
 

@@ -52,14 +52,50 @@
                                     var perRowCount = 0;
                                     var firstRowCount = 0;
                                     var secondRowCount = 0;
+                                    var starKalyan = 1;
+                                    var startIndex = 0;
+                                    string[] seq = new string[] { "A", "B", "C" };
+                                    bool firstRowFlag = true;
+                                    int batch = 0;
                                     foreach (var childitem in Model.opClPartialViewModel.tblOpCls.Where(a => a.publish_date == @item.Key.publish_date && a.timeslot == @item.Key.timeslot))
                                     {
                                         if (perRowCount % 5 == 0)
                                         {
+                                            if (batch % 2 == 0 && batch != 0)
+                                            {
+                                                startIndex++;
+                                            }
+                                            string temp = string.Empty;
+                                            temp = "<tr>";
+                                            int z = 0;
+                                            if (startIndex != 0 || !firstRowFlag)
+                                            {
+                                                z = 5;
 
-                                            firstRow = perRowCount!=0 ? firstRow + "</tr><tr>" :  "<tr>";
+                                                if (batch % 2 == 0)
+                                                {
+                                                    z = 0;
+                                                }
+                                                //if (startIndex==3){
+                                                //    startIndex = 0;
+                                                //}
+                                            }
+                                            for (int i = z; i < (z + 5); i++)
+                                            {
+                                                temp = temp + "<td class='table-seperator allTds' style='color:blue'>" + seq[startIndex] + "  " + (i + 1) + "</td>";
+                                            }
+
+
+                                            firstRow = firstRow + "</tr>" + temp + "<tr>";
+
+                                            batch++;
+
+                                            // firstRow = perRowCount!=0 ? firstRow + "</tr><tr>" :  "<tr>";
                                         }
-
+                                        if (perRowCount == 0)
+                                        {
+                                            firstRowFlag = false;
+                                        }
                                         if (childitem.jd.ToString().Length > 3)
                                         {
                                             var newJodi = childitem.jd.ToString();
